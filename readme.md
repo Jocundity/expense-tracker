@@ -2,9 +2,12 @@
 This is full-stack web development project built using Django and React. It allows a user to upload a CSV file from their computer to help them track and visualise their expenses.
 
 ## Demo
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7MA7pSKy3J4?si=FJSCQZzi6wc-VkMa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-[![Watch the video](https://img.youtube.com/vi/7MA7pSKy3J4/default.jpg)](https://youtu.be/7MA7pSKy3J4?si=g_dPMFLNBbLVfxWP)
+Click to watch the video on Youtube: 
+<p align="center">
+  <a href="https://youtu.be/7MA7pSKy3J4">
+    <img src="https://img.youtube.com/vi/7MA7pSKy3J4/maxresdefault.jpg" alt="Watch the video" style="width:100%;">
+  </a>
+</p>
 
 ## Features
 - User authentication (login/register/logout)
