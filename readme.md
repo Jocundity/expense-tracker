@@ -22,21 +22,26 @@ Click to watch the video on Youtube:
 - Database: SQLite
 
 ## How to Run
+Type the following commands into your terminal:  
 
 ### Backend
+```bash
 cd backend
 pip install -r requirements.txt
 python manage.py runserver
+```
 
 ### Frontend
+```bash
 cd frontend
 npm install
 npm start
+```
 
 ## Example CSV format
-amount, category, date, description
-5.30,Transport,1-Apr-26,Train ticket
-31.47,Food,1-Apr-26,Groceries
+amount, category, date, description  
+5.30,Transport,1-Apr-26,Train ticket  
+31.47,Food,1-Apr-26,Groceries  
 
 Please use the included expenses.csv file to demo this project or use it as a model when creating your own csv files.
 
