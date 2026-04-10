@@ -19,7 +19,7 @@ Click to watch the video on Youtube:
 ## Tech Stack
 - Backend: Python, Django, Django REST Framework, Pandas (CSV processing)
 - Frontend: React, Recharts (data visualisation)
-- Database: SQLite
+- Database: PostgreSQL
 
 ## How to Run
 Type the following commands into your terminal:  
